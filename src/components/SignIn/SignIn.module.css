@@ -1,0 +1,74 @@
+.formContainer {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    border-radius: 6px;
+    margin: 0 auto;
+    padding: 40px 60px;
+}
+
+.form {
+    width: 100%;
+}
+
+.signInFields {
+     border: none;
+     padding: 0px;
+}
+
+.signInFields legend {
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* .signInFields input {
+    font-size: 15px;
+    line-height: 26px;
+    padding: 4px 10px;
+    border-radius: 3px;
+    box-shadow: rgb(15 15 15 / 10%) 0px 0px 0px 1px inset;
+    background: rgba(242, 241, 238, 0.6);
+    cursor: text;
+    margin-top: 4px;
+    margin-bottom: 20px;
+    border: none;
+    width: 97%;
+} */
+/* 
+.signInFields label {
+    display: block;
+    margin-bottom: 4px;
+    font-size: 12px;
+    color: rgba(55, 53, 47, 0.65);
+} */
+
+/* .buttonContainer input {
+    transition: background 20ms ease-in 0s;
+    height: 36px;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1;
+    padding-left: 12px;
+    padding-right: 12px;
+    background: rgba(55, 53, 47, 0.08);
+    border: 1px solid rgba(15, 15, 15, 0.15);
+    box-shadow: rgb(15 15 15 / 5%) 0px 1px 2px;
+    margin-bottom: 4px;
+}
+
+.buttonContainer input:hover, .signUpLink:hover {
+    cursor: pointer;
+}
+
+.signUpLink {
+    color: rgba(55, 53, 47, 0.65);
+    font-size: 14px;
+    line-height: 1.6;
+    text-decoration: underline;
+    display: inline-block;
+}
+
+.signUpLink p {
+    margin-top: 4px;
+} */

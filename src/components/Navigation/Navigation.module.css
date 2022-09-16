@@ -1,0 +1,13 @@
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 25px;
+}
+
+.multiNav {
+    display: flex;
+}
+
+.multiNav > p {
+    margin-right: 20px;
+}
